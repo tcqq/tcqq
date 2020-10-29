@@ -1,6 +1,4 @@
-### Hi there 👋 I'm tcqq 
-
-![Profile views](https://gpvc.arturio.dev/tcqq)
+### Hi there 👋 I'm tcqq ![Profile views](https://gpvc.arturio.dev/tcqq)
 
 <p align="left">
   <a href="https://github.com/tcqq">
