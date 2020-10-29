@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm tcqq
+
+![Profile views](https://gpvc.arturio.dev/tcqq)
 
 <!--
 **tcqq/tcqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<details>
+  <summary><b>📊 Github Stats</b></summary>
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=patilshreyas&count_private=true&show_icons=true&include_all_commits=true" alt="Shreyas Patil | Stats" />
+</details>
