@@ -1,5 +1,11 @@
 ### Hi there 👋 I'm tcqq
 
+<p align="center">
+  <a href="https://github.com/tcqq">
+    <img src="https://github-readme-stats.vercel.app/api?username=tcqq&count_private=true&show_icons=true&include_all_commits=true" alt="Shreyas Patil | Stats" />
+  </a>
+</p>
+
 ![Profile views](https://gpvc.arturio.dev/tcqq)
 
 <!--
@@ -17,7 +23,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<details>
-  <summary><b>📊 Github Stats</b></summary>
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=patilshreyas&count_private=true&show_icons=true&include_all_commits=true" alt="Shreyas Patil | Stats" />
-</details>
