@@ -1,12 +1,14 @@
-### Hi there 👋 I'm tcqq
+### Hi there 👋 I'm tcqq 
 
-<p align="center">
+![Profile views](https://gpvc.arturio.dev/tcqq)
+
+<p align="left">
   <a href="https://github.com/tcqq">
     <img src="https://github-readme-stats.vercel.app/api?username=tcqq&count_private=true&show_icons=true&include_all_commits=true" alt="Perry Lance | Stats" />
   </a>
 </p>
 
-![Profile views](https://gpvc.arturio.dev/tcqq)
+
 
 <!--
 **tcqq/tcqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
