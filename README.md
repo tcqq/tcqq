@@ -1,5 +1,3 @@
-### Hi there 👋 I'm tcqq
-
 <p align="left">
   <a href="https://github.com/tcqq">
     <img src="https://github-readme-stats.vercel.app/api?username=tcqq&count_private=true&show_icons=true&include_all_commits=true" alt="Perry Lance | Stats" />
