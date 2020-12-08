@@ -4,10 +4,10 @@
   </a>
 </p>
 
-![Profile views](https://gpvc.arturio.dev/tcqq)
-
 
 <!--
+![Profile views](https://gpvc.arturio.dev/tcqq)
+
 **tcqq/tcqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
